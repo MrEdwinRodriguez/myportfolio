@@ -1,0 +1,108 @@
+body{
+	background-image: url("../images/wall.jpg");
+	margin: 0;
+	padding: 0;
+}
+
+#home-main{
+	margin-top: 80px;
+	
+
+
+}
+
+
+
+
+.col-md-8{
+	
+	height: 600px;
+	
+
+}
+
+.col-md-4{
+ 	
+	height: 500px;
+
+
+}
+
+#bio-me{
+	background-color:white;
+	overflow: auto;
+	width: 80%;
+	padding: 15px;
+
+}
+
+#my-pic{
+	width: 45%;
+	height: 250px;
+	float: left;
+	padding: 0px 15px 0px 0px;;
+
+}
+
+#connect{
+	width: 200px;
+	height: 175px;
+	background-color: white;
+	text-align: center;
+	padding-top: 10px;
+	
+}
+
+.apps{
+	width: 50px;	
+	height: 50px;
+
+}
+
+#about-me{
+
+	font-family: 'Lobster';
+	color: #4aaaa5;
+
+}
+
+#connect-with{
+	font-family: 'Lobster';
+	color: #4aaaa5;
+
+}
+
+.inner{
+	text-align: center;
+	positionL relative;
+	font-family: 'Lobster';
+	margin-top: 140px;
+	
+}
+table img{
+
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	margin: 70px;
+	margin-bottom:10px;
+	margin-top: 0px;
+
+}
+
+.banner{
+	width: 150px;
+	height: 30px;
+	background-color: #4aaaa5;
+	margin-left: 70px;
+	position: relative;
+	top: 130px;
+	text-align: center;;
+	font-family: "Lobster";
+	color: white;
+
+
+}
+
+
+

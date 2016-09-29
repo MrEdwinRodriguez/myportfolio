@@ -1,0 +1,166 @@
+body{
+
+	margin: 0;
+	padding: 0;
+	background-image: url('../images/apple.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+
+#home-main{
+	margin-top: 1px;
+	
+
+}
+
+
+
+
+.col-md-8{
+	
+	height: 400px;
+	
+
+}
+
+.col-md-4{
+ 	
+	height: 500px;
+
+
+}
+
+#bio-me{
+	/*background-color:white;	*/
+	overflow: auto;
+	width: 80%;
+	padding: 15px;
+	color: #1a0f00;
+
+}
+
+#my-pic{
+	width: 190px;
+	height: 250px;
+	float: left;
+	padding: 0px 15px 0px 0px;;
+
+}
+
+#connect{
+	width: 200px;
+	height: 175px;
+	/*background-color: white;*/
+	text-align: center;
+	padding-top: 40px;
+	
+}
+
+.apps{
+	width: 50px;	
+	height: 50px;
+
+}
+
+#about-me{
+	/*padding-top:45px;*/
+	font-family: 'Lobster';
+	color: #4aaaa5;
+
+}
+
+#connect-with{
+	font-family: 'Lobster';
+	color: #4aaaa5;
+
+}
+
+#my-portfolio{
+	font-family: 'Lobster';
+	padding-top: 35px;
+	color: #4aaaa5;
+
+}
+
+
+
+.inner{
+	text-align: center;
+	position: relative;
+	font-family: 'Lobster';
+	margin-top: 50px;
+	color: #1a0f00;
+	
+}
+
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+   
+   	margin: auto;
+	width: 600px;
+	height: 300px
+
+	
+  }
+
+#myCarousel{
+	
+	background-color: white;
+	width: 500px;
+	height: 200px;
+
+
+
+	
+
+	
+}
+
+
+
+
+.description{
+	background-color: #4aaaa5;
+	text-align: center;
+
+	position: relative;
+	bottom: 20px;
+	color: black;
+	
+
+}
+
+#cara{
+	padding-left: 45px;
+
+	background-color: white;	
+	width: 625px;
+	height: 500px;
+	
+	/*padding-bottom: 55px;*/
+	
+	
+
+}
+
+a:hover{
+	
+	border: 2px solid #4aaaa5;
+
+}
+
+
+.title{
+	background-color: white;
+	text-align: center;
+	padding: 0px;
+	position: relative;
+	font-family: 'Stalinist One', cursive;;
+	color: #4aaaa5;
+	
+
+}
+
+
+
