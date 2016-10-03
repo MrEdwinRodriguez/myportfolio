@@ -121,10 +121,11 @@ body{
 	width: 625px;
 	height: 500px;
 	
+}
 
-	
-	
+.navbar-inverse{
 
+	background-color: #222;
 }
 
 /*a:hover{
