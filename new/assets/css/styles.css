@@ -1,0 +1,50 @@
+body{
+
+	margin: 0;
+	padding: 0;
+	background-image: url('../images/apple.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+
+
+
+
+
+.block{
+	margin: 0 auto;
+	text-align: center;
+	/*background-color: green;*/
+	width: 50%;
+	height: 100px;
+	margin-top: 50px;
+}
+
+#block1, #block4, #block7{
+	text-align: center;
+	background-color: green;
+	width: 50%;
+	height: 100px;
+	margin-right: 0px;
+}
+
+#block3, #block6, #block9{
+	text-align: center;
+	background-color: green;
+	width: 50%;
+	height: 100px;
+	margin-left: 0px;
+}
+
+#block8{
+	text-align: center;
+	background-color: green;
+	width: 50%;
+	height: 100px;
+	
+}
+
+#block7, #block8, #block9{
+	margin-bottom: 50px;
+}
