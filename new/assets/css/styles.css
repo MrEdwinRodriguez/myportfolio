@@ -16,35 +16,41 @@ body{
 	margin: 0 auto;
 	text-align: center;
 	/*background-color: green;*/
-	width: 50%;
+	width: 80%;
 	height: 100px;
 	margin-top: 50px;
+}
+
+#myPic{
+	width: 80%;
+	height: 250px;
+
 }
 
 #block1, #block4, #block7{
 	text-align: center;
 	background-color: green;
-	width: 50%;
+	/*width: 50%;*/
 	height: 100px;
-	margin-right: 0px;
+	/*margin-right: 0px;*/
 }
 
 #block3, #block6, #block9{
 	text-align: center;
 	background-color: green;
-	width: 50%;
-	height: 100px;
-	margin-left: 0px;
+	/*width: 50%;*/
+	/*height: 100px;*/
+	/*margin-left: 0px;*/
 }
 
 #block8{
-	text-align: center;
-	background-color: green;
-	width: 50%;
-	height: 100px;
+	/*text-align: center;*/
+	/*background-color: green;*/
+	/*width: 50%;*/
+	/*height: 100px;*/
 	
 }
 
 #block7, #block8, #block9{
-	margin-bottom: 50px;
+	/*margin-bottom: 50px;*/
 }
