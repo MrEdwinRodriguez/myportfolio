@@ -9,8 +9,9 @@ body{
 }
 
 
-
-
+div{
+	margin-bottom: 100px;
+}
 
 .block{
 	margin: 0 auto;
@@ -24,7 +25,8 @@ body{
 #myPic{
 	width: 80%;
 	height: 250px;
-
+	margin-bottom: 100px;
+	margin-top: 50px;
 }
 
 #block1, #block4, #block7{
