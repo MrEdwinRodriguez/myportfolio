@@ -9,50 +9,61 @@ body{
 }
 
 
-div{
-	margin-bottom: 100px;
-}
+
 
 .block{
-	margin: 0 auto;
+	margin: auto;
 	text-align: center;
-	/*background-color: green;*/
+	/*background-image: url('../images/blockbackground.png');*/
+	background-image: url('../images/background.jpg');
+	background-color: white;
 	width: 80%;
 	height: 100px;
 	margin-top: 50px;
+	font-family: 'Oswald', sans-serif;
+	color: blue;
+	font-size: 20px;
+	padding-top: 30px;
+	border: solid 3px black;
 }
 
 #myPic{
 	width: 80%;
 	height: 250px;
-	margin-bottom: 100px;
 	margin-top: 50px;
+	/*margin: auto;*/
+}
+
+#block2{
+	text-align: center;
 }
 
 #block1, #block4, #block7{
 	text-align: center;
-	background-color: green;
+	/*background-color: green;*/
 	/*width: 50%;*/
 	height: 100px;
 	/*margin-right: 0px;*/
 }
 
-#block3, #block6, #block9{
+#block3, #block6, #block8, #block9{
 	text-align: center;
-	background-color: green;
-	/*width: 50%;*/
-	/*height: 100px;*/
-	/*margin-left: 0px;*/
-}
-
-#block8{
-	/*text-align: center;*/
 	/*background-color: green;*/
-	/*width: 50%;*/
-	/*height: 100px;*/
-	
+
 }
 
-#block7, #block8, #block9{
-	/*margin-bottom: 50px;*/
+#bottom{
+	font-family: 'Parisienne', cursive;
+	color: red;
+	text-align: center;
+	bottom: 10px;
 }
+
+footer {
+  position: relative;
+  right: 0;
+  left: 0;
+  text-align: center;
+}
+
+
